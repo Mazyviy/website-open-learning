@@ -1,1 +1,2 @@
-Website with a course from Open Education
+Сайт с итогового испытания курса "Веб-программирование"
+https://mazyviy.github.io/website-open-learning/
